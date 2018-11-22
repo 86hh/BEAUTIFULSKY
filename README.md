@@ -1,6 +1,6 @@
 # BeautifulSky
 It is a cross-platform W32/W64 single execution path x86/x64 code base for self-replicators.<br />
-For a detailed description, read SKYBEA2.TXT.
+For a detailed description, read https://86hh.github.io/sky.html
 
 # What's new in BeautifulSky
 
